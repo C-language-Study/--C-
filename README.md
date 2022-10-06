@@ -1,4 +1,2 @@
-<div>
-            <h1 style="color: aqua">HelloWorld</h1>
-        </div> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
